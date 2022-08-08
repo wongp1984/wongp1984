@@ -1,1 +1,1 @@
-🌱 I’m currently learning Data Science in University of Surrey.
+🌱 I’m currently learning Data Science in the University of Surrey.
